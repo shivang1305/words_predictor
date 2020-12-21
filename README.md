@@ -68,3 +68,20 @@ the sequences list.
 design a Neural Network architecture.
 5. Train the Model
 6. Generate Sentences
+
+
+## Implementation
+
+How does the keyboard on your phone know what you would like to type next? Language prediction is a Natural Language Processing - NLP application concerned with predicting the text given in the preceding text. Auto-complete or suggested responses are popular types of language prediction. The first step towards language prediction is the selection of a language model. This article shows different approaches one can adopt for building the Next Word Predictor you have in apps like Whatsapp or any other messaging app.
+
+
+
+
+Word Prediction or Text Generation is a Language modeling problem, A classic ideation in Machine Learning and Deep Learning. In here, we are trying to do the word prediction using LSTM Recurrent Neural Network or RNN. Neural Network is actually said to be a design, inspired by how human brains work. They recognize patterns and clusters and use them to give us powerful insights and terrific applications of different kind of levels.
+
+
+## Model Information
+![Model Information](https://github.com/shivang1305/words_predictor/blob/main/Screenshot%20(203).png) 
+#
+#
+![Model Information](https://github.com/shivang1305/words_predictor/blob/main/Screenshot%20(205).png) 
