@@ -84,5 +84,5 @@ Word Prediction or Text Generation is a Language modeling problem, A classic ide
 ## Model Information
 ![Model Information](https://github.com/shivang1305/words_predictor/blob/main/Screenshot%20(203).png) 
 #
-## Model Acoouracy
+## Model Accuracy
 ![Model Information](https://github.com/shivang1305/words_predictor/blob/main/Screenshot%20(205).png) 
