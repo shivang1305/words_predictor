@@ -1,5 +1,5 @@
 # WORDS PREDICTOR MODEL
-Deep Learning model made on Keras and TensorFlow which use bidirectional Recurrent neural network(RNN) LSTM to predict the next word in the sentence.
+Deep Learning model made on keras and tensorFlow which use bidirectional recurrent neural network(RNN) LSTM to predict the next word in the sentence.
 
 
 ## INTRODUCTION
